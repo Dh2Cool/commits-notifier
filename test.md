@@ -1,3 +1,3 @@
 # test
 
-triggering workflow to verify WhatsApp + Discord notifications.
+triggering workflow after opening WhatsApp conversation window.
