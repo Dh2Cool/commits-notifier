@@ -1,0 +1,12 @@
+{
+  "name": "commits-notifier",
+  "version": "1.0.0",
+  "description": "GitHub push → WhatsApp + Discord notifications via GitHub Actions",
+  "type": "module",
+  "scripts": {
+    "notify": "node scripts/notify.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
